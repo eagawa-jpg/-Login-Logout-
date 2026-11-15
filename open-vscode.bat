@@ -1,0 +1,3 @@
+@echo off
+echo Opening VS Code in Frontend Register pages...
+"C:\Users\Admin\AppData\Local\Programs\Microsoft VS Code\Code.exe" "%~dp0"
